@@ -5,7 +5,7 @@
 
   <br/>
 
-  <p>Building intelligent systems from Maharashtra, India 🇮🇳</p>
+  
 
   <p>
     <a href="https://www.linkedin.com/in/rakshit-modanwal-5649182a0/">
