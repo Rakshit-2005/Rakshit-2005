@@ -24,8 +24,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at **IIIT Nagpur** (CGPA 9.12), working at the intersection of Computer Vision, Generative AI, and Full-Stack Engineering. My research on hyperspectral soil classification was **accepted at CVIP 2025, IIT Ropar**, and I'm currently working on a satellite image super-resolution model submitted to the International Journal of Remote Sensing. Beyond research, I build production-grade systems — from RAG pipelines to real-time video analytics. Always open to collaborating on impactful projects.
----
+I'm a Computer Science undergraduate at IIIT Nagpur (CGPA 9.12), working at the intersection of Computer Vision, Generative AI, and Full-Stack Engineering. My research on hyperspectral soil classification was accepted at CVIP 2025, IIT Ropar, and I'm currently working on a satellite image super-resolution model submitted to the International Journal of Remote Sensing. Beyond research, I build production-grade systems — from RAG pipelines to real-time video analytics. Always open to collaborating on impactful projects.
 ## 🛠️ Tech Stack
 
 **Languages**
