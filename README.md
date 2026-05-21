@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>👋 Hi, I'm Rakshit Modanwal</h1>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Accepted+Paper+in+CVIP+2025%2C+IIT+Ropar;Building+Real+Time+Computer+Vision+Project;AI+%2F+ML+Engineer;Cloud+%26+DevOps+Enthusiast;Building+intelligent+systems+%F0%9F%9A%80;Open+to+collaborations!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Accepted+Paper+in+CVIP+2025%2C+IIT+Ropar;Building+Real+Time+Computer+Vision+Project;AI+%2F+ML+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+intelligent+systems;Open+to+collaborations!" alt="Typing SVG">
 
 
 
