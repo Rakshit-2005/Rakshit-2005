@@ -94,18 +94,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rakshit-2005&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rakshit-2005&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rakshit-2005&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
-</div>
-
----
 
 ## ✍️ Dev Quote
 
@@ -115,6 +104,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakshit-2005&color=534AB7&style=flat-square&label=Profile+views" alt="Profile views">
-</div>
+
