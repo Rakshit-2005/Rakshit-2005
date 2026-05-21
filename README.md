@@ -1,14 +1,11 @@
 <!-- Header -->
 <div align="center">
   <h1>👋 Hi, I'm Rakshit Modanwal</h1>
-  <p><strong>Full-Stack Developer · AI/ML Engineer · Cloud Enthusiast</strong><br/>
-  Building intelligent systems from Maharashtra, India 🇮🇳</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Cloud+%26+DevOps+Enthusiast;Building+intelligent+systems+%F0%9F%9A%80;Open+to+collaborations!" alt="Typing SVG">
 
-  <p>
-    <img src="https://img.shields.io/badge/⚡_Open_to_collabs-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489" alt="">
-    <img src="https://img.shields.io/badge/🧠_AI%2FML_focused-E1F5EE?style=flat-square&color=E1F5EE" alt="">
-    <img src="https://img.shields.io/badge/☁️_Cloud_native-FAEEDA?style=flat-square&color=FAEEDA" alt="">
-  </p>
+  <br/>
+
+  <p>Building intelligent systems from Maharashtra, India 🇮🇳</p>
 
   <p>
     <a href="https://www.linkedin.com/in/rakshit-modanwal-5649182a0/">
