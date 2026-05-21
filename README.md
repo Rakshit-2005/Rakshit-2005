@@ -22,18 +22,10 @@
   </p>
 </div>
 
----
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech CSE** at **IIIT Nagpur** — CGPA **9.12**
-- 📄 **Published Researcher** — Paper accepted at **CVIP 2025, IIT Ropar** on Hyperspectral Soil Classification using Multi-Branch CNN + Diffusion-Based 3D Autoencoder
-- 🛰️ Currently working on **HNDSR** — a Hybrid Neural Operator-Diffusion model for Satellite Image Super-Resolution (submitted to International Journal of Remote Sensing)
-- 🏆 **1st Runner-Up** at IIT BHU Technex Hackathon — ML pipeline for exoplanet habitability prediction
-- 🤖 Deep interest in **Computer Vision**, **Generative AI**, **LLMs**, and **RAG pipelines**
-- 🔭 Built an AI Conversation Intelligence System with 6 analysis modules handling **100+ requests/min**
-- 🛡️ Built an Adaptive Intrusion Detection System achieving **99.2% accuracy** using online ensemble learning
-- 📚 Literacy & Documentation Lead — **Estoria Club, IIIT Nagpur** (2023–2024)
-- 📍 Maharashtra, India
+I'm a Computer Science undergraduate at **IIIT Nagpur** (CGPA 9.12), working at the intersection of Computer Vision, Generative AI, and Full-Stack Engineering. My research on hyperspectral soil classification was **accepted at CVIP 2025, IIT Ropar**, and I'm currently working on a satellite image super-resolution model submitted to the International Journal of Remote Sensing. Beyond research, I build production-grade systems — from RAG pipelines to real-time video analytics. Always open to collaborating on impactful projects.
+---
 ## 🛠️ Tech Stack
 
 **Languages**
